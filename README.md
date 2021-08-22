@@ -3,8 +3,8 @@
 
 # Resources
 
-[https://firebase.google.com/docs/admin/setup]
-[https://firebase.google.com/docs/firestore/manage-data/delete-data]
+* [https://firebase.google.com/docs/admin/setup]
+* [https://firebase.google.com/docs/firestore/manage-data/delete-data]
 
 
 
