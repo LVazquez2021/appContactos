@@ -20,7 +20,7 @@
  app.use(express.urlencoded({ extended: false }))
 
  //routes
-
+ app.use(require('./routes/index'));
 
  //statics files
  app.use(express.static(path.join(__dirname, 'public')));
